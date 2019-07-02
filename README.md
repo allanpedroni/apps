@@ -1,2 +1,4 @@
 # apps
 inclusão
+edição
+exclusão
